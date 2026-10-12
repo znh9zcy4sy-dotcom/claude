@@ -10,7 +10,7 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-06-01,Airbnb,Master Card AIRBNB * HMJFQKPNPQ,-508.0,,,
 2026-07-05,Airbnb,Master Card AIRBNB * HMJSFQDK5S,-838.0,,,
 2026-07-20,Airbnb,Master Card AIRBNB * HMMF9AKPZZ,-801.0,,,
-2026-07-31,AJP Logistics Ltd,Faster Payments Out 72323,-77.35,,,
+2026-07-31,AJP Logistics Ltd,Faster Payments Out 72323,-77.35,,Statement only,QuickBooks statement from AJP Logistics 31 Jul - need the invoice itself
 2026-04-04,Amazon,Master Card AMAZON UK* NB47I8QC4,-28.8,,Skipped,Amazon orders in mailbox look personal (kids items/groceries) - not searched
 2026-05-19,Amazon,Master Card AMAZON* NA3EY8KE4,-53.97,,Skipped,Amazon orders in mailbox look personal (kids items/groceries) - not searched
 2026-06-30,Amazon,Master Card AMAZON* K30OF1VW5,-96.53,,Skipped,Amazon orders in mailbox look personal (kids items/groceries) - not searched
@@ -64,8 +64,8 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-08-29,BP,Master Card BOTLEY SERVICE STATION,-140.01,,,
 2026-08-29,BP,Master Card BOTLEY SERVICE STATION,-12.39,,,
 2026-09-14,BP,Master Card BOTLEY SERVICE STATION,-31.84,,,
-2026-07-25,BT,Master Card BT.COM CONSUMER BP,-113.62,,,
-2026-09-14,BT,Master Card BT.COM CONSUMER BP,-53.06,,,
+2026-07-25,BT,Master Card BT.COM CONSUMER BP,-113.62,,No,Searched Outlook - nothing found
+2026-09-14,BT,Master Card BT.COM CONSUMER BP,-53.06,,No,Searched Outlook - nothing found
 2026-07-15,Bucks Council,Master Card BUCKS COUNCIL - IPS,-4.3,,,
 2026-08-08,Bucks Council,Master Card BUCKS COUNCIL - IPS,-4.3,,,
 2026-08-19,Bucks Council,Master Card BUCKS COUNCIL - IPS,-4.3,,,
@@ -82,20 +82,20 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-08-05,Costa Coffee,Master Card COSTA CHESHAM,-12.0,,,
 2026-08-27,Costco,Master Card Costco Online UK Limit,-30.0,,,
 2026-08-21,Crows Nest,Master Card CROWS NEST,-78.78,,,
-2026-08-03,DVLA,Direct Debit 000000000056877696,-30.18,,,
-2026-09-01,DVLA,Direct Debit 000000000056877696,-30.18,,,
-2025-10-01,eBay,Master Card eBay O*21-13630-71750,-55.89,,,
-2026-09-06,eBay,Master Card eBay O*04-15139-35879,-71.98,,,
+2026-08-03,DVLA,Direct Debit 000000000056877696,-30.18,,No,Searched Outlook - nothing found
+2026-09-01,DVLA,Direct Debit 000000000056877696,-30.18,,No,Searched Outlook - nothing found
+2025-10-01,eBay,Master Card eBay O*21-13630-71750,-55.89,,No,Searched Outlook - nothing found
+2026-09-06,eBay,Master Card eBay O*04-15139-35879,-71.98,,No,Searched Outlook - nothing found
 2026-08-03,EE,Master Card EE Limited,-539.13,,Payment notice only,EE payment notice 2 Aug - need the EE bill/invoice
 2026-09-11,EE,Master Card EE Limited,-536.56,,Payment notice only,EE payment notice 10 Sep - need the EE bill/invoice
 2026-07-10,Euro Car Parks,Master Card Euro Car Parks,-1.0,,,
-2026-05-19,Expertfix,Master Card EXPERTFIX,-100.0,,,
+2026-05-19,Expertfix,Master Card EXPERTFIX,-100.0,,No,Searched Outlook - nothing found
 2026-08-28,Flint Bishop,Faster Payments Out M0661185,-2692.07,,No,"Only debt-collection letters in mailbox, no receipt"
 2026-07-24,Foxit Software Inc.,Master Card FOXIT SOFTWARE INC.,-14.18,,Yes,"Stripe receipt from Foxit, #2797-7280 paid 23 Jul 14.18"
 2026-07-31,Foxit Software Inc.,Master Card FOXIT SOFTWARE INC.,-8.89,,Yes,"Stripe receipt from Foxit, #2405-1162 paid 30 Jul 8.89"
 2026-08-24,Foxit Software Inc.,Master Card FOXIT SOFTWARE INC.,-14.18,,Yes,"Stripe receipt from Foxit, #2536-3978 paid 23 Aug 14.18"
 2026-08-31,Foxit Software Inc.,Master Card FOXIT SOFTWARE INC.,-8.89,,Yes,"Stripe receipt from Foxit, #2667-8324 paid 30 Aug 8.89"
-2026-07-27,Frans Property Solutions Ltd,Faster Payments Out Treves green depos,-300.0,,,
+2026-07-27,Frans Property Solutions Ltd,Faster Payments Out Treves green depos,-300.0,,No,Searched Outlook - nothing found
 2026-08-15,Frasers,Master Card FRASERS,-121.99,,,
 2026-08-16,Frasers,Master Card FRASERS,-51.99,,,
 2026-04-21,GoDaddy,Master Card DNH*GODADDY#4068025887,-20.39,,,
@@ -132,8 +132,8 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-07-22,Greggs,Master Card GREGGS,-12.35,,,
 2026-07-24,Greggs,Master Card GREGGS,-7.19,,,
 2026-07-24,Greggs,Master Card GREGGS,-6.25,,,
-2026-08-24,Halfords,Master Card HALFORDS 0766,-19.99,,,
-2026-09-02,Halfords,Master Card HALFORDS 0767,-8.99,,,
+2026-08-24,Halfords,Master Card HALFORDS 0766,-19.99,,No,Searched Outlook - nothing found
+2026-09-02,Halfords,Master Card HALFORDS 0767,-8.99,,No,Searched Outlook - nothing found
 2026-06-27,Hammerton Garage,Master Card HAMMERTON GARAGE,-1002.05,,,
 2026-07-18,Hammerton Garage,Master Card HAMMERTON GARAGE,-449.92,,,
 2026-08-13,Hampton Park,Master Card HAMPTON PARK,-60.01,,,
@@ -156,8 +156,8 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-08-06,King Charles I,Master Card KING CHARLES,-9.75,,,
 2026-08-07,King Charles I,Master Card KING CHARLES,-8.4,,,
 2026-09-12,Kite Packaging,Master Card KITE PACKAGING LIMITED,-454.7,,Yes,"Kite order SW004179205 confirmation (11 Sep) + shipment email with attachment (12 Sep), 454.70 incl VAT"
-2026-07-28,L&z Re Taxsense,Direct Debit L016978,-289.08,,,
-2026-09-14,Lumsden Stuart,Master Card POWER TOOLS,-270.72,,,
+2026-07-28,L&z Re Taxsense,Direct Debit L016978,-289.08,,No,Nothing found; same amount as Helpbox 289.08 - check with Helpbox
+2026-09-14,Lumsden Stuart,Master Card POWER TOOLS,-270.72,,No,Only Powertools UK marketing emails (Lumsden Stuart Ltd) - no order/invoice
 2026-09-09,Malvern Tavern,Master Card MALVERN TAVERN,-33.15,,,
 2026-08-14,Marks & Spencer,Master Card MARKS&SPENCER PLC,-47.5,,,
 2026-09-02,Marks & Spencer,Master Card MARKS&SPENCER PLC,-13.95,,,
@@ -171,10 +171,10 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-07-04,Merington,Master Card MERINGTON STORES,-15.84,,,
 2026-07-18,Mfg Chesham,Master Card MFG CHESHAM,-18.79,,,
 2026-07-18,Mfg Chesham,Master Card MFG CHESHAM,-14.62,,,
-2026-08-02,Microsoft,Master Card Microsoft*Nero Burning,-8.39,,,
-2026-09-02,Microsoft,Master Card Microsoft*Nero Burning,-8.39,,,
+2026-08-02,Microsoft,Master Card Microsoft*Nero Burning,-8.39,,No,Searched Outlook - nothing found
+2026-09-02,Microsoft,Master Card Microsoft*Nero Burning,-8.39,,No,Searched Outlook - nothing found
 2026-07-11,Mini Manes,Master Card SQ *MINI MANES,-19.8,,,
-2026-06-27,Mobile Bitz West Quay,Master Card Mobile BITZ West Quay,-139.99,,,
+2026-06-27,Mobile Bitz West Quay,Master Card Mobile BITZ West Quay,-139.99,,No,Searched Outlook - nothing found
 2026-09-05,Mountain Warehouse,Master Card Mountain Warehouse WHI,-28.17,,,
 2026-07-19,Next,Master Card NEXT RETAIL LTD,-89.2,,,
 2026-04-28,Offgridcamp,Master Card OFF GRID CAMP,-25.0,,,
@@ -186,7 +186,7 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-08-17,Premium Credit Insurance,Direct Debit 04AFIT0062/01,-370.74,,,
 2026-08-20,Premium Credit Insurance,Direct Debit 04AESA2181/01,-64.55,,,
 2026-07-29,Pure Gym,Master Card PureGym Limited,-35.99,,,
-2026-08-19,Px Goodwill Logistics,Master Card PX GOODWILL LOGISTICS,-553.33,,,
+2026-08-19,Px Goodwill Logistics,Master Card PX GOODWILL LOGISTICS,-553.33,,Yes,"Pallet Booking order confirmation GL69420498 (18 Aug), total 553.33 incl VAT 92.22, attachment"
 2026-08-25,Quality Cuisine Cateri,Master Card Quality Cuisine Cateri,-5.0,,,
 2026-08-26,Quality Cuisine Cateri,Master Card Quality Cuisine Cateri,-3.29,,,
 2026-08-26,Quality Cuisine Cateri,Master Card Quality Cuisine Cateri,-1.0,,,
@@ -234,7 +234,7 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-08-18,Shell,Master Card SHELL SOUTH ROAD,-20.65,,,
 2026-08-19,Shell,Master Card SHELL SHIRLEY,-13.85,,,
 2026-08-21,Shell,Master Card SHELL SHIRLEY,-21.75,,,
-2026-09-04,Stripe Re Helpbox,Direct Debit 0TSWBX7NMTMGUI4T34,-289.08,,,
+2026-09-04,Stripe Re Helpbox,Direct Debit 0TSWBX7NMTMGUI4T34,-289.08,,Probable,"Helpbox payment request PR-6182, 289.08, due 28 Aug (request, not a VAT invoice - ask Helpbox for invoice)"
 2026-07-09,Subway,Master Card SUBWAY 72831-0,-21.94,,,
 2026-07-17,Subway,Master Card SUBWAY TONGHAM,-18.8,,,
 2026-07-08,Sumup *rumbles On,Master Card SumUp  *Rumbles on,-5.8,,,
