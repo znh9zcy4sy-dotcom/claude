@@ -58,12 +58,12 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-08-03,Booking.com,Master Card Hotel at Booking.com,-400.76,,Receipt only,"Receipt only - Booking.com says not a VAT invoice; hotel invoice needed. Receipt 2 Aug booking 5204978635 De Vere Latimer, 400.76"
 2026-08-16,Booking.com,Master Card Hotel at Booking.com,-92.0,,Receipt only,"Receipt only - Booking.com says not a VAT invoice; hotel invoice needed. Receipt 14 Aug booking 6509084416, 92.00"
 2026-07-23,Boot& Slipper,Master Card BOOT& SLIPPER,-17.2,,,
-2026-07-19,BP,Master Card BOTLEY SERVICE STATION,-6.83,,,
-2026-08-05,BP,Master Card FITCH'S SERVICE STATIO,-50.07,,,
-2026-08-06,BP,Master Card FITCH'S SERVICE STATIO,-19.73,,,
-2026-08-29,BP,Master Card BOTLEY SERVICE STATION,-140.01,,,
-2026-08-29,BP,Master Card BOTLEY SERVICE STATION,-12.39,,,
-2026-09-14,BP,Master Card BOTLEY SERVICE STATION,-31.84,,,
+2026-07-19,BP,Master Card BOTLEY SERVICE STATION,-6.83,,No,Searched Outlook - nothing found
+2026-08-05,BP,Master Card FITCH'S SERVICE STATIO,-50.07,,No,Searched Outlook - nothing found
+2026-08-06,BP,Master Card FITCH'S SERVICE STATIO,-19.73,,No,Searched Outlook - nothing found
+2026-08-29,BP,Master Card BOTLEY SERVICE STATION,-140.01,,No,Searched Outlook - nothing found
+2026-08-29,BP,Master Card BOTLEY SERVICE STATION,-12.39,,No,Searched Outlook - nothing found
+2026-09-14,BP,Master Card BOTLEY SERVICE STATION,-31.84,,No,Searched Outlook - nothing found
 2026-07-25,BT,Master Card BT.COM CONSUMER BP,-113.62,,No,Searched Outlook - nothing found
 2026-09-14,BT,Master Card BT.COM CONSUMER BP,-53.06,,No,Searched Outlook - nothing found
 2026-07-15,Bucks Council,Master Card BUCKS COUNCIL - IPS,-4.3,,,
@@ -134,8 +134,8 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-07-24,Greggs,Master Card GREGGS,-6.25,,,
 2026-08-24,Halfords,Master Card HALFORDS 0766,-19.99,,No,Searched Outlook - nothing found
 2026-09-02,Halfords,Master Card HALFORDS 0767,-8.99,,No,Searched Outlook - nothing found
-2026-06-27,Hammerton Garage,Master Card HAMMERTON GARAGE,-1002.05,,,
-2026-07-18,Hammerton Garage,Master Card HAMMERTON GARAGE,-449.92,,,
+2026-06-27,Hammerton Garage,Master Card HAMMERTON GARAGE,-1002.05,,No,Searched Outlook - nothing found
+2026-07-18,Hammerton Garage,Master Card HAMMERTON GARAGE,-449.92,,No,Searched Outlook - nothing found
 2026-08-13,Hampton Park,Master Card HAMPTON PARK,-60.01,,,
 2026-09-04,Hampton Park,Master Card HAMPTON PARK,-9.47,,,
 2026-07-17,Hempstead Service Stat,Master Card HEMPSTEAD SERVICE STAT,-8.1,,,
@@ -182,9 +182,9 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-07-19,Pinkmead Hand Car Wash,Master Card PINKMEAD HAND CAR WASH,-30.0,,,
 2026-04-19,Poolpro Li,Master Card Poolpro (Hampshire) Li,-15.5,,,
 2026-07-16,Premier Marinas,Master Card PREMIER MARINAS,-6.6,,,
-2026-07-20,Premium Credit Insurance,Direct Debit 04AESA2181/01,-64.55,,,
-2026-08-17,Premium Credit Insurance,Direct Debit 04AFIT0062/01,-370.74,,,
-2026-08-20,Premium Credit Insurance,Direct Debit 04AESA2181/01,-64.55,,,
+2026-07-20,Premium Credit Insurance,Direct Debit 04AESA2181/01,-64.55,,Statement only,Premium Credit statement email 9 Jul; insurance is normally VAT-exempt so a VAT invoice may not be needed
+2026-08-17,Premium Credit Insurance,Direct Debit 04AFIT0062/01,-370.74,,Statement only,Premium Credit statement email 9 Jul; insurance is normally VAT-exempt so a VAT invoice may not be needed
+2026-08-20,Premium Credit Insurance,Direct Debit 04AESA2181/01,-64.55,,Statement only,Premium Credit statement email 9 Jul; insurance is normally VAT-exempt so a VAT invoice may not be needed
 2026-07-29,Pure Gym,Master Card PureGym Limited,-35.99,,,
 2026-08-19,Px Goodwill Logistics,Master Card PX GOODWILL LOGISTICS,-553.33,,Yes,"Pallet Booking order confirmation GL69420498 (18 Aug), total 553.33 incl VAT 92.22, attachment"
 2026-08-25,Quality Cuisine Cateri,Master Card Quality Cuisine Cateri,-5.0,,,
@@ -226,14 +226,14 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-07-10,Sainsbury's,Master Card SAINSBURYS S/MKTS,-34.3,,,
 2026-08-17,Screwfix,Master Card SCREWFIX DIR LTD,-39.01,,Probable,Screwfix invoice A27438371476 emailed 16 Aug (attachment) - amount not yet checked
 2026-09-01,Screwfix,Master Card SCREWFIX DIR LTD,-10.98,,Probable,Screwfix invoice A27737643476 emailed 31 Aug (attachment) - amount not yet checked
-2026-07-10,Shell,Master Card SHELL CHESHAM,-50.0,,,
-2026-07-10,Shell,Master Card SHELL CHESHAM,-13.33,,,
-2026-07-28,Shell,Master Card SHELL WICKHAM 531,-151.2,,,
-2026-08-14,Shell,Master Card SHELL SHIRLEY,-10.6,,,
-2026-08-18,Shell,Master Card SHELL SOUTH ROAD,-147.01,,,
-2026-08-18,Shell,Master Card SHELL SOUTH ROAD,-20.65,,,
-2026-08-19,Shell,Master Card SHELL SHIRLEY,-13.85,,,
-2026-08-21,Shell,Master Card SHELL SHIRLEY,-21.75,,,
+2026-07-10,Shell,Master Card SHELL CHESHAM,-50.0,,No,Searched Outlook - nothing found
+2026-07-10,Shell,Master Card SHELL CHESHAM,-13.33,,No,Searched Outlook - nothing found
+2026-07-28,Shell,Master Card SHELL WICKHAM 531,-151.2,,No,Searched Outlook - nothing found
+2026-08-14,Shell,Master Card SHELL SHIRLEY,-10.6,,No,Searched Outlook - nothing found
+2026-08-18,Shell,Master Card SHELL SOUTH ROAD,-147.01,,No,Searched Outlook - nothing found
+2026-08-18,Shell,Master Card SHELL SOUTH ROAD,-20.65,,No,Searched Outlook - nothing found
+2026-08-19,Shell,Master Card SHELL SHIRLEY,-13.85,,No,Searched Outlook - nothing found
+2026-08-21,Shell,Master Card SHELL SHIRLEY,-21.75,,No,Searched Outlook - nothing found
 2026-09-04,Stripe Re Helpbox,Direct Debit 0TSWBX7NMTMGUI4T34,-289.08,,Probable,"Helpbox payment request PR-6182, 289.08, due 28 Aug (request, not a VAT invoice - ask Helpbox for invoice)"
 2026-07-09,Subway,Master Card SUBWAY 72831-0,-21.94,,,
 2026-07-17,Subway,Master Card SUBWAY TONGHAM,-18.8,,,
@@ -257,11 +257,11 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-07-17,The Watermill Hotel,Master Card The Watermill Hotel,-80.0,,,
 2026-07-30,The Watermill Hotel,Master Card The Watermill Hotel,-20.0,,Yes,"Watermill invoice FB022134, booking WM024742/1, 125.00 gross (20.00 here + 105.00 Booking.com 26 Jul)"
 2026-09-12,Toolden,Master Card TOOLDEN,-112.4,,,
-2026-04-03,Uber,Master Card UBR* PENDING.UBER.COM,-23.74,,,
-2026-05-22,Uber,Master Card Uber Payments UK,-53.25,,,
-2026-07-03,Uber,Master Card Uber Payments UK,-34.59,,,
-2026-07-12,Uber,Master Card Uber Payments UK,-32.02,,,
-2026-08-08,Uber,Master Card Uber Payments UK,-72.85,,,
+2026-04-03,Uber,Master Card UBR* PENDING.UBER.COM,-23.74,,No,Searched Outlook - nothing found
+2026-05-22,Uber,Master Card Uber Payments UK,-53.25,,No,Searched Outlook - nothing found
+2026-07-03,Uber,Master Card Uber Payments UK,-34.59,,No,Searched Outlook - nothing found
+2026-07-12,Uber,Master Card Uber Payments UK,-32.02,,No,Searched Outlook - nothing found
+2026-08-08,Uber,Master Card Uber Payments UK,-72.85,,No,Searched Outlook - nothing found
 2026-05-16,Uber Eats,Master Card UBER   * EATS PENDING,-98.16,,,
 2026-05-20,Uber Eats,Master Card UBER   * EATS PENDING,-65.17,,,
 2026-05-28,Uber Eats,Master Card UBER   * EATS PENDING,-18.74,,,
@@ -278,16 +278,16 @@ Date,Supplier,Bank description,Amount,Comment,Receipt found?,File name
 2026-08-16,Wfest Meqht9gx,Master Card SumUp  *WFest MEQHT9GX,-300.0,,,
 2026-07-17,White Horse - Hemel Hempstead,Master Card WHITE HORSE,-12.4,,,
 2026-07-17,White Horse - Hemel Hempstead,Master Card WHITE HORSE,-11.85,,,
-2026-08-08,Wickes,Master Card WICKES CHESHAM,-47.25,,,
-2026-08-14,Wickes,Master Card WICKES SOUTHAMPTON,-232.46,,,
-2026-08-14,Wickes,Master Card WICKES SOUTHAMPTON,-9.27,,,
-2026-08-21,Wickes,Master Card WICKES SOUTHAMPTON,-2.0,,,
-2026-08-26,Wickes,Master Card WICKES SOUTHAMPTON,-5.5,,,
-2026-08-26,Wickes,Master Card WICKES SOUTHAMPTON,-4.35,,,
-2026-08-27,Wickes,Master Card WICKES SOUTHAMPTON,-17.1,,,
-2026-08-27,Wickes,Master Card WICKES SOUTHAMPTON,-3.0,,,
-2026-09-09,Wickes,Master Card WICKES SOUTHAMPTON,-18.48,,,
-2026-09-09,Wickes,Master Card WICKES SOUTHAMPTON,-8.0,,,
+2026-08-08,Wickes,Master Card WICKES CHESHAM,-47.25,,No,"Searched Outlook - only project emails, no purchase receipts (store purchases)"
+2026-08-14,Wickes,Master Card WICKES SOUTHAMPTON,-232.46,,No,"Searched Outlook - only project emails, no purchase receipts (store purchases)"
+2026-08-14,Wickes,Master Card WICKES SOUTHAMPTON,-9.27,,No,"Searched Outlook - only project emails, no purchase receipts (store purchases)"
+2026-08-21,Wickes,Master Card WICKES SOUTHAMPTON,-2.0,,No,"Searched Outlook - only project emails, no purchase receipts (store purchases)"
+2026-08-26,Wickes,Master Card WICKES SOUTHAMPTON,-5.5,,No,"Searched Outlook - only project emails, no purchase receipts (store purchases)"
+2026-08-26,Wickes,Master Card WICKES SOUTHAMPTON,-4.35,,No,"Searched Outlook - only project emails, no purchase receipts (store purchases)"
+2026-08-27,Wickes,Master Card WICKES SOUTHAMPTON,-17.1,,No,"Searched Outlook - only project emails, no purchase receipts (store purchases)"
+2026-08-27,Wickes,Master Card WICKES SOUTHAMPTON,-3.0,,No,"Searched Outlook - only project emails, no purchase receipts (store purchases)"
+2026-09-09,Wickes,Master Card WICKES SOUTHAMPTON,-18.48,,No,"Searched Outlook - only project emails, no purchase receipts (store purchases)"
+2026-09-09,Wickes,Master Card WICKES SOUTHAMPTON,-8.0,,No,"Searched Outlook - only project emails, no purchase receipts (store purchases)"
 2026-09-11,Wickes,Direct Credit INV-1014,15896.64,,,
 2026-07-19,Xero,Master Card XERO UK INV-30476046,-78.0,,Yes,Xero INV-30476046 email 19 Jul
 2026-08-19,Xero,Master Card XERO UK INV-31020645,-78.0,,Yes,Xero INV-31020645 email 19 Aug
